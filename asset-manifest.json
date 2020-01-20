@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cv-react-v1/static/css/main.63b2e6d4.chunk.css",
+    "main.css": "/cv-react-v1/static/css/main.12f3bdf2.chunk.css",
     "main.js": "/cv-react-v1/static/js/main.7bf02c0e.chunk.js",
     "main.js.map": "/cv-react-v1/static/js/main.7bf02c0e.chunk.js.map",
     "runtime-main.js": "/cv-react-v1/static/js/runtime-main.730a0f41.js",
@@ -8,16 +8,16 @@
     "static/js/2.4baf3a34.chunk.js": "/cv-react-v1/static/js/2.4baf3a34.chunk.js",
     "static/js/2.4baf3a34.chunk.js.map": "/cv-react-v1/static/js/2.4baf3a34.chunk.js.map",
     "index.html": "/cv-react-v1/index.html",
-    "precache-manifest.a53c2ec54772eda3ce34f7d2ad0eb9d2.js": "/cv-react-v1/precache-manifest.a53c2ec54772eda3ce34f7d2ad0eb9d2.js",
+    "precache-manifest.c8973b88c55de9721219555f3a8161ac.js": "/cv-react-v1/precache-manifest.c8973b88c55de9721219555f3a8161ac.js",
     "service-worker.js": "/cv-react-v1/service-worker.js",
-    "static/css/main.63b2e6d4.chunk.css.map": "/cv-react-v1/static/css/main.63b2e6d4.chunk.css.map",
+    "static/css/main.12f3bdf2.chunk.css.map": "/cv-react-v1/static/css/main.12f3bdf2.chunk.css.map",
     "static/js/2.4baf3a34.chunk.js.LICENSE": "/cv-react-v1/static/js/2.4baf3a34.chunk.js.LICENSE",
     "static/media/main.css": "/cv-react-v1/static/media/photo.200daf61.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.730a0f41.js",
     "static/js/2.4baf3a34.chunk.js",
-    "static/css/main.63b2e6d4.chunk.css",
+    "static/css/main.12f3bdf2.chunk.css",
     "static/js/main.7bf02c0e.chunk.js"
   ]
 }
