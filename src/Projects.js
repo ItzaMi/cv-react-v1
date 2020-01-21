@@ -9,6 +9,19 @@ class Projects extends Component {
           <p>
             <a
               className="linkPage"
+              href="https://github.com/ItzaMi/cv-react-v1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              ReactJS Resume
+            </a>
+            <br></br>
+            Project created using <span className="blackText">ReactJS</span> and
+            it looks neat, right?
+          </p>
+          <p>
+            <a
+              className="linkPage"
               href="https://github.com/ItzaMi/weather-website"
               target="_blank"
               rel="noopener noreferrer"
