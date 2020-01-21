@@ -13,7 +13,7 @@ class Projects extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              ReactJS Resume
+              ReactJS Curriculum Vitae
             </a>
             <br></br>
             Project created using <span className="blackText">ReactJS</span> and
