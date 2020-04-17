@@ -14,13 +14,13 @@ class Header extends Component {
             <h1>Hey, I'm Rui</h1>
             <p>I'm a Web Developer & Designer from Porto, Portugal</p>
             <p>
-              Web Developer @{" "}
+              Frontend Developer @{" "}
               <a
-                href="https://antisocial.agency/"
+                href="https://coletiv.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                antisocial
+                Coletiv
               </a>
             </p>
             <div className="socialIcons">

@@ -7,6 +7,36 @@ class Experience extends Component {
         <h4>Experience</h4>
         <div className="infoBox">
           <p>
+            <strong>Frontend Developer</strong>
+            <br></br>
+            <strong>
+              <a
+                className="hyperlink"
+                href="https://coletiv.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Coletiv
+              </a>
+            </strong>
+            <br></br>
+            Frontend Developer at{" "}
+            <a
+              className="linkPage"
+              href="https://coletiv.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Coletiv
+            </a>
+            , digital studio working with several international partners.
+            Currently working as a Web Developer using{" "}
+            <span className="blackText">ReactJS</span> and
+            <span className="blackText"> Gatsby</span>!<br></br>
+            <span className="year">February 2020 - Present</span>
+          </p>
+          <br></br>
+          <p>
             <strong>Web Developer & Web Designer</strong>
             <br></br>
             <strong>
@@ -61,7 +91,7 @@ class Experience extends Component {
             .<br></br>I also create content for social media of the brands we
             work with and I partially coordinate the team creatively.
             <br></br>
-            <span className="year">April 2019 - Present</span>
+            <span className="year">April 2019 - February 2020</span>
           </p>
         </div>
       </div>
